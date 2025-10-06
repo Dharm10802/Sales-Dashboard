@@ -3,6 +3,9 @@
 This repository contains a sample sales dataset  for data analysis, visualization, and learning purposes.
 
 ## Dataset overview
+📂 Dataset Overview
+
+The dataset includes the following columns:
 
 | Column Name    | Description                                          |
 | -------------- | ---------------------------------------------------- |
