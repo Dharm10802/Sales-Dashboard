@@ -12,7 +12,6 @@ The dataset includes the following columns:
 | Product        | Name of the product sold                             |
 | Category       | Product category (Electronics, Accessories, Gadgets) |
 | Quantity       | Number of units sold                                 |
-| Price_per_Unit | Price of a single unit in INR                        |
 | Customer_Name  | Customer's name                                      |
 | Region         | Region of the customer (North, South, East, West)    |
 | Date           | Date of the sale                                     |
@@ -28,7 +27,7 @@ The dataset includes the following columns:
 
 ✅ Includes multiple products, categories, and regions for diverse data scenarios.
 
-
+##
 
 📊 Sample Visualization
 
