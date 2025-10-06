@@ -16,7 +16,7 @@
 
 
 
-##⚡ Features
+#⚡ Features
 
 ✅ Sample dataset for sales analysis and report generation.
 
