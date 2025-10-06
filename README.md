@@ -1,5 +1,7 @@
 # Sales-Dashboard
 
+This repository contains a sample sales dataset  for data analysis, visualization, and learning purposes.
+
 ## Dataset overview
 
 | Column Name    | Description                                          |
