@@ -2,7 +2,6 @@
 
 This repository contains a sample sales dataset  for data analysis, visualization, and learning purposes.
 
-## Dataset overview
 📂 Dataset Overview
 
 The dataset includes the following columns:
@@ -30,7 +29,7 @@ The dataset includes the following columns:
 ✅ Includes multiple products, categories, and regions for diverse data scenarios.
 
 
-📊 Sample Visualization
+#📊 Sample Visualization
 
 Total Sales by Product
 
