@@ -16,10 +16,21 @@
 
 
 
-#⚡ Features
+⚡ Features
 
 ✅ Sample dataset for sales analysis and report generation.
 
 ✅ Perfect for practicing Excel, SQL, and Python (pandas).
 
 ✅ Includes multiple products, categories, and regions for diverse data scenarios.
+
+
+📊 Sample Visualization
+
+Total Sales by Product
+
+Sales by Region
+
+Top Customers
+
+Monthly Sales Trend
