@@ -29,12 +29,19 @@ The dataset includes the following columns:
 ✅ Includes multiple products, categories, and regions for diverse data scenarios.
 
 
-#📊 Sample Visualization
 
-Total Sales by Product
+📊 Sample Visualization
 
-Sales by Region
+You can use this dataset to create charts like:
 
-Top Customers
+.Total Sales by Product
 
-Monthly Sales Trend
+.Sales by Region
+
+.Top Customers
+
+.Monthly Sales Trend
+
+.Top Products with Maximum profit
+
+
